@@ -17,11 +17,17 @@ The format should therefore be something that includes both text and code, and i
 * Conclusion: What are your conclusions about this analysis? Were there certain things that worked better for solving this problem than others? What do you think of your results? Any sort of final thoughts. 
 
 
-### To submit an example:
+### How to submit an example:
 * Fork this repository
 * Create a branch in your local fork
 * Add your example
 * Submit a pull request to this repository for `main` 
+
+### Share! 
+
+The Nixtla team will thank you and share your examples! Please also share your work! 
+
+Examples in this repo are licensed CC-BY, so we expect that they'll be shared with attribution to you. 
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
