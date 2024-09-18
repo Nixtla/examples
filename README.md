@@ -13,7 +13,7 @@ The format should therefore be something that includes both text and code, and i
 * Title: A descriptive title explaining what you're aiming to do
 * Overview: A short overview of the problem or question, why you're motivated to answer this question.
 * Questions: What questions are you aiming to answer? e.g. what type of flowers should we plant in Mozambique next year, given current weather patterns?
-* Approach and results: Your code, explanations and results of how you're approaching answering these questions. This can include things you tried that you decided not to use. It can show your journey as well as what you decided is the final approach you want to use. This is super helpful to others trying to do similar things! 
+* Approach and results: Your code, explanations and results of how you're approaching answering these questions. This can include things you tried that you decided not to use. It can show your journey as well as what you decided is the final approach you want to use. This is super helpful to others trying to do similar things! Visualizations are especially great! 
 * Conclusion: What are your conclusions about this analysis? Were there certain things that worked better for solving this problem than others? What do you think of your results? Any sort of final thoughts. 
 
 
